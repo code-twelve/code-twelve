@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **from CS basic to Machine Learning, and focus on NLP or Knowledge Graph in the future**
 
-- 📫 How to reach me **code.twelve@outlook.com**
+- 📫 How to reach me: **code.twelve@outlook.com**
 
-- ⚡ Fun fact **Basketball and K-pop**
+- ⚡ Fun fact: **Chris Paul is my favorite NBA player.**
 
 <!-- social media -->
 <h3 align="left">Connect with me:</h3>
